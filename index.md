@@ -1,1 +1,1 @@
-Hi, my name is Justin Baur. I am a software engineer primarily focused on .NET. 
+Hi, my name is Justin Baur. I am a software engineer primarily focused on .NET. I also like TypeScript and JavaScript.
